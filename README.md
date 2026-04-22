@@ -58,6 +58,8 @@ PROYECTO_NETFLIX_TSCDEIA/
 * Visualización de patrones
 * Aplicación de estadística descriptiva
 * Análisis inferencial
+* Limpieza
+* Estandarizacion de datos
 
 ## Notas
 El dataset utilizado es de carácter sintético, por lo que no contiene información sensible de usuarios reales. Sin embargo, se respetan buenas prácticas en el manejo y análisis de datos.
