@@ -15,20 +15,26 @@ El dataset original está compuesto por seis tablas relacionadas. A partir de es
 Este dataset cumple con los requisitos de la materia, incluyendo una combinación de variables cualitativas y cuantitativas, y una cantidad suficiente de registros para realizar análisis estadístico.
 
 ## Estructura del repositorio
-PROYECTO_NETFLIX_TSCDEIA
-    Datos/
-    dataset_unificado.csv
-    users.csv
-    movies.csv
-    watch_history.csv
-    reviews.csv
-    search_logs.csv
-    recommendation_logs.csv
+## Estructura del repositorio
 
-    docs/
-    descripcion_problema.md
+```
+PROYECTO_NETFLIX_TSCDEIA/
+│
+├── Datos/
+│   ├── dataset_unificado.csv
+│   ├── users.csv
+│   ├── movies.csv
+│   ├── watch_history.csv
+│   ├── reviews.csv
+│   ├── search_logs.csv
+│   └── recommendation_logs.csv
+│
+├── docs/
+│   └── descripcion_problema.md
+│
+└── README.md
+```
 
-    README.md
 
 ## Proceso realizado
 * Selección del dataset
