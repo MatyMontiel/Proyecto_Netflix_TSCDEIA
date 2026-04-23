@@ -4,7 +4,7 @@ Análisis de datos de una plataforma tipo Netflix utilizando un dataset integrad
 ## Integrantes
 Estudiantes de la carrera Ciencia de Datos e Inteligencia Artificial:
 
-* **Marovich, Miakel.** — DNI: 41.625.321 — — [dmmarovich4@gmail.com] (Cuenta de GitHub)
+* **Marovich, Mikael.** — DNI: 41.625.321 — — [dmmarovich4@gmail.com] (Cuenta de GitHub)
 * **Molina, Lorenzo** — DNI: 41.712.829 — — [molinaplorenzo@gmail.com] (Cuenta de GitHub)
 * **Montiel, Matias** — DNI: 42.474.994 — [axel-gta4@hotmail.com] (Cuenta de GitHub)
 * **Munighini, Antonella** — DNI: 44.194.338 — — [antonellamunighini.a@gmail.com] (Cuenta de GitHub)
