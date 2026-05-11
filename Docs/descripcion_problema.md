@@ -41,6 +41,9 @@ El dataset final contiene una combinación de variables cualitativas y cuantitat
 * user_id
 * gender
 * subscription_plan
+* country
+* device_type
+* preferred_genre
 * is_active
 
 ### Variables cuantitativas
@@ -61,6 +64,8 @@ Esta combinación permite aplicar tanto análisis descriptivos como inferenciale
 * **Origen de los datos**: Dataset sintético que simula una plataforma de streaming
 * **Formato**: CSV
 * **Unidad de análisis**: Usuario
+* **Cantidad de registros**: 100.000 filas.
+* **Cantidad de columnas**: 72 variables.
 * **Periodo temporal**: Datos simulados correspondientes a interacciones entre 2024 y 2025
 * **Frecuencia de actualización**: No aplica
 * **Tipo de datos**: Estructurados
